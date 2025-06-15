@@ -69,12 +69,13 @@
 
 - 🧠 **AIMERS Internship**  
   - 🔍 *Image Classification*, *Object Detection*, *Power BI Analytics*  
-  - 💻 Developed and trained ML models, built insights using Power BI
+  - 💻 Developed and trained machine learning models for visual recognition tasks  
+  - 📊 Built interactive dashboards and extracted insights using Power BI
 
 - 🌐 **Eduskills Internship**  
   - 🧩 *Python Full Stack Development*  
-  - 💡 Created dynamic web apps using HTML, CSS, Python & MySQL  
-  - 📊 Learned backend integration and REST API basics
+  - 💡 Built dynamic web applications using HTML, CSS, Python, and MySQL  
+  - 🔗 Gained hands-on experience with backend integration and RESTful APIs
 
 ---
 
