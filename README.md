@@ -58,12 +58,11 @@ I’m currently pursuing my B.Tech in **Artificial Intelligence and Machine Lear
 ---
 
 ## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/pati-navya-6a86a3314/)  
-- 🐙 [GitHub](https://github.com/navyashuuu)  
-- 📧 Email:22a21a6176@swarnandhra.ac.in
+ 
+- 💼 LinkedIn by https://www.linkedin.com/in/pati-navya-6a86a3314/
+- 🐙 [GitHub] by navyashuuu
+- 📧 Email: 22a21a6176@swarnandhra.ac.in
 
 ---
 
 > *“Code with logic, style with soul, and learn like you're changing the world.”* 💫
-
