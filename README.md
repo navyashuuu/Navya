@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B81&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+P.+Navya+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;AI+%2B+ML+Explorer+%7C+Web+Learner+%7C+IEE+Member;Code.+Create.+Connect."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B81&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+P.+Navya+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;AI+%2B+ML+Explorer+%7C+Web+Learner+%7C+IEEE+Member;Code.+Create.+Connect."/>
 </h1>
 
 <p align="center">
@@ -36,9 +36,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,github,vscode" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149639.png" width="35" title="Machine Learning"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/10714/10714924.png" width="35" title="NLP"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3944/3944380.png" width="35" title="Artificial Intelligence"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3944/3944380.png" width="35" title="Artificial Intelligence" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149639.png" width="35" title="Machine Learning" />
+  <img src="https://cdn-icons-png.flaticon.com/512/10714/10714924.png" width="35" title="Natural Language Processing" />
 </p>
 
 ---
@@ -54,15 +54,27 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 <strong>CGPA: 8.67</strong> (B.Tech - AIML)  
-- 🌐 <strong>IEEE Student Member</strong>  
-  <img src="https://ns3tutorial.com/wp-content/uploads/2015/12/ieee-logo2.png" width="80" align="right">
-- 💡 Participated in <strong>IEEE Hackathon</strong> with AI-based innovation  
-- 📜 Certifications:
-  - ✔️ Artificial Intelligence & Machine Learning – Infosys Springboard  
-  - ✔️ Java and DSA – Infosys  
-  - ✔️ Python Full Stack – Eduskills  
-  - ✔️ Python Programming & Cybersecurity – Cisco Network Academy  
+- 🎓 **CGPA: 8.67** (B.Tech - AIML)  
+- 🌐 **IEEE Student Member**  
+- 💡 Participated in **IEEE Hackathon** with AI-based innovation  
+- 📜 **Certifications:**
+  - ✔️ Artificial Intelligence & Machine Learning – *Infosys Springboard*  
+  - ✔️ Java and DSA – *Infosys*  
+  - ✔️ Python Full Stack – *Eduskills*  
+  - ✔️ Python Programming & Cybersecurity – *Cisco Network Academy*  
+
+---
+
+## 🧳 Internships
+
+- 🧠 **AIMERS Internship**  
+  - 🔍 *Image Classification*, *Object Detection*, *Power BI Analytics*  
+  - 💻 Developed and trained ML models, built insights using Power BI
+
+- 🌐 **Eduskills Internship**  
+  - 🧩 *Python Full Stack Development*  
+  - 💡 Created dynamic web apps using HTML, CSS, Python & MySQL  
+  - 📊 Learned backend integration and REST API basics
 
 ---
 
@@ -71,7 +83,7 @@
 - ✅ Automation and AI-based mini projects using Python  
 - ✅ Responsive web design with HTML & CSS  
 - ✅ Database schema design and SQL queries  
-- ✅ Learning python applications 
+- ✅ Learning python applications  
 - ✅ Exploring AI libraries like NLTK, scikit-learn, OpenCV  
 
 ---
@@ -83,11 +95,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyashuuu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pati-navya-6a86a3314/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:22a21a6176@swarnandhra.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pati-navya-6a86a3314/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:22a21a6176@swarnandhra.ac.in">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
