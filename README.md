@@ -35,20 +35,17 @@
 ## 🧰 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,github,vscode" />
-  <img src="https://cdn-icons-png.flaticon.com/512/3944/3944380.png" width="35" title="Artificial Intelligence" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149639.png" width="35" title="Machine Learning" />
-  <img src="https://cdn-icons-png.flaticon.com/512/10714/10714924.png" width="35" title="Natural Language Processing" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,vscode" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3944/3944380.png" width="55" title="Artificial Intelligence" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149639.png" width="55" title="Machine Learning" />
+  <img src="https://cdn-icons-png.flaticon.com/512/10714/10714924.png" width="45" title="Natural Language Processing" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-- 🤖 AI-powered mini projects  
-- 🧠 Emotion detection using NLP  
-- 🌐 Web integration with Python backends  
-- 📊 Data visualization and dashboards  
+- 🤖 AI-powered mini projects and python applications
 
 ---
 
@@ -76,16 +73,6 @@
   - 🧩 *Python Full Stack Development*  
   - 💡 Built dynamic web applications using HTML, CSS, Python, and MySQL  
   - 🔗 Gained hands-on experience with backend integration and RESTful APIs
-
----
-
-## ✨ Project Highlights
-
-- ✅ Automation and AI-based mini projects using Python  
-- ✅ Responsive web design with HTML & CSS  
-- ✅ Database schema design and SQL queries  
-- ✅ Learning python applications  
-- ✅ Exploring AI libraries like NLTK, scikit-learn, OpenCV  
 
 ---
 
