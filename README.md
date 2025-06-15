@@ -45,7 +45,7 @@
 
 ## 🚀 Current Focus
 
-- 🤖 AI-powered mini projects and python applications
+- 🤖 AI-powered mini projects and Python applications  
 
 ---
 
@@ -55,10 +55,10 @@
 - 🌐 **IEEE Student Member**  
 - 💡 Participated in **IEEE Hackathon** with AI-based innovation  
 - 📜 **Certifications:**
-  - ✔️ Artificial Intelligence & Machine Learning – *Infosys Springboard*  
-  - ✔️ Java and DSA – *Infosys*  
-  - ✔️ Python Full Stack – *Eduskills*  
-  - ✔️ Python Programming & Cybersecurity – *Cisco Network Academy*  
+- ✔️ Artificial Intelligence & Machine Learning – *Infosys Springboard*
+- ✔️ Java and DSA – *Infosys*
+- ✔️ Python Full Stack – *Eduskills*
+- ✔️ Python Programming & Cybersecurity – *Cisco Network Academy*  
 
 ---
 
@@ -72,7 +72,7 @@
 - 🌐 **Eduskills Internship**  
   - 🧩 *Python Full Stack Development*  
   - 💡 Built dynamic web applications using HTML, CSS, Python, and MySQL  
-  - 🔗 Gained hands-on experience with backend integration and RESTful APIs
+  - 🔗 Gained hands-on experience with backend integration and RESTful APIs  
 
 ---
 
