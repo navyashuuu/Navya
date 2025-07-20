@@ -52,27 +52,31 @@
 ## 🏆 Achievements & Certifications
 
 - 🎓 **CGPA: 8.67** (B.Tech - AIML)  
-- 🌐 **IEEE Student Member**  
+- 🌐 **IEEE SECRETARY Member CIS chapter**  
 - 💡 Participated in **IEEE Hackathon** with AI-based innovation  
 - 📜 **Certifications:**
-- ✔️ Artificial Intelligence & Machine Learning – *Infosys Springboard*
-- ✔️ Java and DSA – *Infosys*
-- ✔️ Python Full Stack – *Eduskills*
+- ✔️ Certified System Administrator – *ServiceNow*
+- ✔️ Certified Application Developer - *ServiceNow*
 - ✔️ Python Programming & Cybersecurity – *Cisco Network Academy*  
 
 ---
+Certainly! Here's your revised **Internships and Projects** section with proper alignment and bullet formatting—no extra spaces:
 
-## 🧳 Internships
+---
 
-- 🧠 **AIMERS Internship**  
-  - 🔍 *Image Classification*, *Object Detection*, *Power BI Analytics*  
-  - 💻 Developed and trained machine learning models for visual recognition tasks  
-  - 📊 Built interactive dashboards and extracted insights using Power BI
+## 🧳 Internships and Projects
 
-- 🌐 **Eduskills Internship**  
-  - 🧩 *Python Full Stack Development*  
-  - 💡 Built dynamic web applications using HTML, CSS, Python, and MySQL  
-  - 🔗 Gained hands-on experience with backend integration and RESTful APIs  
+* 🧠 **AIMERS Internship**
+
+  * 🔍 *Image Classification*, *Object Detection*, *Power BI Analytics*
+  * 💻 Developed and trained machine learning models for visual recognition tasks
+  * 📊 Built interactive dashboards and extracted insights using Power BI
+
+* 🧠 **AI Finance Manager App**
+
+  * 🤖 Built a multilingual personal finance tool with LSTM forecasting and NLP-based expense analysis
+  * 📊 Developed interactive Streamlit dashboards with budget tracking, savings goals, and smart alerts
+  * 💬 Integrated emotion-aware AI tips, calendar views, and automated email summaries
 
 ---
 
